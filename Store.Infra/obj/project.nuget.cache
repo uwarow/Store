@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WurqkGWIJe9I7lud1S0XIWk8XmvbSLsovrFq6dvjwi6qFeujh9xKy19sRHPc9Ijb/q+2/OshWx1A05kXNnfA7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fe657\\source\\repos\\Curso\\Store\\Store.Infra\\Store.Infra.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.br154.corpintra.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

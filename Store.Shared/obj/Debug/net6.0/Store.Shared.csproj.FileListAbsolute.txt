@@ -1,0 +1,12 @@
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\bin\Debug\net6.0\Store.Shared.deps.json
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\bin\Debug\net6.0\Store.Shared.dll
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\bin\Debug\net6.0\Store.Shared.pdb
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\Store.Shared.csproj.AssemblyReference.cache
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\Store.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\Store.Shared.AssemblyInfoInputs.cache
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\Store.Shared.AssemblyInfo.cs
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\Store.Shared.csproj.CoreCompileInputs.cache
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\Store.Shared.dll
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\refint\Store.Shared.dll
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\Store.Shared.pdb
+C:\Users\fe657\source\repos\Curso\Store\Store.Shared\obj\Debug\net6.0\ref\Store.Shared.dll
